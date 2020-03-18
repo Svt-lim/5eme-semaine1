@@ -18,12 +18,12 @@ J'aurais réussi si :
 
 Ecrivez sur votre cahier le nom des organes qui se réveillent à la puberté chez la fille
 
-```html
+
 <details>
   <summary>Cliquer pour voir la correction</summary>
   Ovaire et utérus
 </details>
-```
+
 
 **Consigne 2** : 
 
