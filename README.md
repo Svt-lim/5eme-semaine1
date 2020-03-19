@@ -1,5 +1,5 @@
 # 5eme-semaine1
-III L'appareil reproducteur féminin 
+III ou II (cela dépend des groupes de sciences) L'appareil reproducteur féminin 
 
 Tout comme pour le garçon, à la puberté les organes reproducteurs se réveillent.
 
