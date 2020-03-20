@@ -6,7 +6,7 @@ Tout comme pour le garçon, à la puberté les organes reproducteurs se réveill
 J'aurais réussi si : 
 
 - J'ai répondu aux questions posées
-- J'ai réalisé le tableau bilan
+- J'ai réalisé l'exercice d'application
 
 ![image](https://github.com/Svt-lim/5eme-semaine1/blob/master/doc1%20Appareil%20reprod%20femme.png)
 
